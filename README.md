@@ -8,13 +8,13 @@ When the browser starts a tab is immediately created in it, again with the addre
 COMMAND | Description |
  | |
 GO <url> | loads the URL page <url> in the current tab|
---- | --- |
+ | |
 INSERT <url> | adds a new tab after the current one in which it loadsthe <url> URL page|
---- | --- |
+ | |
 BACK | the user is transferred to the tab that is just before the current one|
--- | --- |
+ | |
 FORWARD| The browser goes to the tab that is immediately following currentlast one|
---- | --- |
+ | |
 REMOVE | removes the current tab. The one after him becomes current|
---- | --- |
+ | |
 PRINT | displays all tabs on the screen|
