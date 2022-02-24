@@ -1,5 +1,6 @@
 # Browser
-Implementation of browser tabs.
+## Implementation of browser tabs
+
 Each tab has a string URL and the date and time the page was loaded. The URL is the current loaded tab. 
 From the current tab we can move to one of its immediate neighbors - or the one before
 it or the one after it. For this purpose it is supported back or forward operations relative to
